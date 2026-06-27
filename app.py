@@ -14,7 +14,7 @@ st.set_page_config(
     page_icon="📈",
     layout="wide"
 )
-st.image("logo.jpg")
+st.image("LOGO.JPG")
 st.title("📈 TRỰC QUAN HÓA GIÁ CỔ PHIẾU VÀ KIỂM ĐỊNH MANN-KENDALL_ĐỀ TÀI 6_NGUYỄN THÙY NGÂN")
 
 # =============================
